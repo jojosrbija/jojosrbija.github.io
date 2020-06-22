@@ -17,3 +17,19 @@ header
 {
 	background-image:url("header.jpg");
 }
+.episodes
+{
+	background-color: #262626;
+	color: white;
+	width: 1415px;
+    height: 50px;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.jojo
+{
+	margin-top: -600px;
+	margin-left: 100px;
+	width: 200px;
+	height: 450px;
+}
