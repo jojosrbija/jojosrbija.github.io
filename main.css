@@ -33,3 +33,18 @@ header
 	width: 200px;
 	height: 450px;
 }
+body
+{background-color: #000010;}
+.video
+{
+
+    display: block;
+    margin: 0 auto;
+
+}
+
+h1
+{
+   color: white;
+   text-align: center;
+}
