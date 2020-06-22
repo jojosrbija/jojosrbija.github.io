@@ -1,0 +1,19 @@
+.logo
+{
+	margin-left: 400px;
+	margin-top: 50px;
+}
+.butt
+{
+	background-color: #262626;
+	color: white;
+	margin-left: 190px;
+	width: 200px;
+    height: 50px;
+    border-radius: 50px 50px 50px 50px;
+
+}
+header
+{
+	background-image:url("header.jpg");
+}
